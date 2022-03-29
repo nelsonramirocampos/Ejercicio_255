@@ -1,0 +1,13 @@
+
+
+Maquina produccion
+Mquina empaquetadora
+
+Atencion compras FIFO
+Limite de ordenes insatisfechas --> 10
+
+
+Tiempo produccion x item --> U(60"; 100")
+Llegada pedido --> U(180"; 420")
+Cantidad pedida --> 4 y 7 items
+Fin empaque --> 90 + Cantidad_Items * 50
